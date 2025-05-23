@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">MyViewAndViews</string>
+    <string name="content_text">Saya berasal dari keluarga yang terdiri dari 5 orang.
+        Saya memiliki dua kakak laki-laki, yaitu Rizky dan Andika.
+        Kami tumbuh bersama dan memiliki banyak kenangan indah.
+        Foto ini diambil ketika kakak pertama saya menikah
+    </string>
+    <string name="dummy_value">Bagus Familiy</string>
+    <string name="display">Nama</string>
+    <string name="content_specs_display"> Ibu: Susinah\n
+        Ayah: Satiman\n
+        Kakak Pertama: Rizky\n
+        Kakak Kedua: Andika\n
+        Saya: Bagus</string>
+    <string name="size">Tentang\n Kakak</string>
+    <string name="content_specs_size">Rizky adalah kakak pertama saya, dia adalah seorang yang pekerja keras dan dia bekerja dikementrian pertanian.\n
+        Andika adalah kakak kedua saya dia adalah orang yang punya banyak ide kreatif.
+    </string>
+    <string name="battery">Tentang\n Saya</string>
+    <string name="content_specs_battery">
+        Saya, Bagus, adalah anak bungsu di keluarga ini, saat ini saya adalah mahasiswa di UPNVJ,
+        saya sangat tertarik pada bidang mobile programming dan data science, saya mempunyai cita-cita untuk bekerja menjadi AI Resercher.
+    </string>
+    <string name="seller">Dibuat oleh</string>
+    <string name="my_name">Bagus Tri Handoko</string>
+    <string name="buy">Lihat Detail Keluarga</string>
+</resources>

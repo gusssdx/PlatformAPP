@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Soal 1: Berapa hasil dari 5 + 5?"
+        android:textSize="18sp"/>
+
+    <RadioGroup
+        android:id="@+id/rg_question1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <RadioButton android:id="@+id/rb_q1_a" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="8"/>
+        <RadioButton android:id="@+id/rb_q1_b" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="9"/>
+        <RadioButton android:id="@+id/rb_q1_c" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="10"/>
+    </RadioGroup>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Soal 2: Apa planet tempat kita tinggal?"
+        android:textSize="18sp"
+        android:layout_marginTop="20dp"/>
+
+    <RadioGroup
+        android:id="@+id/rg_question2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <RadioButton android:id="@+id/rb_q2_a" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Mars"/>
+        <RadioButton android:id="@+id/rb_q2_b" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Bumi"/>
+        <RadioButton android:id="@+id/rb_q2_c" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Venus"/>
+    </RadioGroup>
+
+    <Button
+        android:id="@+id/btn_submit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Submit"
+        android:layout_marginTop="20dp"/>
+</LinearLayout>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">tugasView</string>
+    <string name="judul">Mie Ayam Pangsit</string>
+    <string name="deskirpsi">Mi ayam adalah hidangan khas Indonesia yang terbuat dari mi gandum yang dibumbui dengan potongan daging ayam.
+        Hidangan ini banyak terpengaruh dengan teknik penyajian kuliner yang digunakan dalam hidangan Tionghoa.
+        Di Indonesia, mi ayam merupakan hidangan Tionghoa-Indonesia yang sangat terkenal.
+        Mi ayam sering dijual sebagai hidangan jalanan oleh pedagang kaki lima dengan gerobak keliling sederhana,
+        yang biasanya berkeliling di jalan-jalan sekitar perumahan warga. </string>
+    <string name="ingredients">Ingredients:</string>
+    <string name="detail_ingre">Ayam, Mie, Jamur, Pangsit, Kecap, Minyak Bawang</string>
+    <string name="price">Price:</string>
+    <string name="harga">Rp 25.000</string>
+    <string name="saran_menu">Saran Menu</string>
+</resources>

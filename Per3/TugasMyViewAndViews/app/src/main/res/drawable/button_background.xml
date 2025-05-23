@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Warna saat ditekan (clicked) -->
+    <item android:state_pressed="true" android:drawable="@color/orange_dark"/>
+
+    <!-- Warna saat di-hover (untuk Android versi terbaru) -->
+    <item android:state_hovered="true" android:drawable="@color/orange_light"/>
+
+    <!-- Warna default -->
+    <item android:drawable="@color/orange"/>
+</selector>

@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">QuizzApp</string>
+
+    <string name="content_text">Halo, Saya Bagus, Saya adalah mahasiswa Informatika yang
+        memiliki minat besar di bidang Data Science dan Artificial Intelligence.
+        Saya dikenal sebagai pribadi analitis, cepat belajar, dan mampu menggabungkan logika serta
+        kreativitas dalam menyelesaikan masalah. Dengan dasar yang kuat di pemrograman Python, analisis data,
+        serta pemahaman konsep machine learning, saya siap berkontribusi dan
+        terus berkembang di dunia teknologi berbasis data.
+    </string>
+
+    <string name="profil_saya">Profil Saya</string>
+    <string name="name_display">Nama :</string>
+    <string name="name_value"> Bagus Tri Handoko</string>
+    <string name="nim_display">NIM :</string>
+    <string name="nim_value">2210511025</string>
+    <string name="prodi_display">Prodi :</string>
+    <string name="prodi_value">S1 Informatika</string>
+    <string name="kelas_display">Kelas :</string>
+    <string name="kelas_value">Kelas A</string>
+    <string name="seller">Dibuat oleh</string>
+    <string name="my_name">Bagus Tri Handoko</string>
+    <string name="jadwal_button">Detail Jadwal Mata Kuliah \nSemester 6</string>
+</resources>

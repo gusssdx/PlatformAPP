@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <!-- Gambar Header -->
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/img"
+            android:contentDescription="Header Image" />
+
+        <!-- Judul -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/profil_saya"
+            android:textAppearance="?attr/textAppearanceHeadline5"
+            android:textStyle="bold"
+            android:layout_marginTop="16dp" />
+
+        <!-- Deskripsi -->
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="167dp"
+            android:layout_marginTop="16dp"
+            android:layout_marginBottom="10dp"
+            app:cardCornerRadius="12dp"
+            app:cardElevation="7dp">
+
+            <TextView
+                style="@style/TextContent"
+                android:layout_marginTop="8dp"
+                android:lineSpacingMultiplier="1.3"
+                android:text="@string/content_text" />
+        </androidx.cardview.widget.CardView>
+
+        <!-- Informasi Profil -->
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:layout_marginBottom="16dp"
+            app:cardElevation="4dp"
+            app:cardCornerRadius="12dp">
+
+            <TableLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="16dp">
+
+                <TableRow>
+                    <TextView
+                        style="@style/TextSpec.Field"
+                        android:text="@string/name_display" />
+
+                    <TextView
+                        style="@style/TextSpec.Value"
+                        android:text="@string/name_value"
+                        tools:ignore="TextSizeCheck" />
+                </TableRow>
+
+                <TableRow>
+                    <TextView
+                        style="@style/TextSpec.Field"
+                        android:text="@string/nim_display" />
+                    <TextView
+                        style="@style/TextSpec.Value"
+                        android:text="@string/nim_value" />
+                </TableRow>
+
+                <TableRow>
+                    <TextView
+                        style="@style/TextSpec.Field"
+                        android:text="@string/prodi_display" />
+                    <TextView
+                        style="@style/TextSpec.Value"
+                        android:text="@string/prodi_value" />
+                </TableRow>
+
+                <TableRow>
+                    <TextView
+                        style="@style/TextSpec.Field"
+                        android:text="@string/kelas_display" />
+                    <TextView
+                        style="@style/TextSpec.Value"
+                        android:text="@string/kelas_value" />
+                </TableRow>
+
+            </TableLayout>
+        </androidx.cardview.widget.CardView>
+
+        <!-- Dibuat oleh -->
+        <TextView
+            style="@style/TextContent.Subtitle"
+            android:text="@string/seller" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center_vertical"
+            android:paddingTop="8dp"
+            android:paddingBottom="16dp">
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:id="@+id/profile_image"
+                android:layout_width="56dp"
+                android:layout_height="56dp"
+                android:src="@drawable/foto"
+                android:layout_marginRight="16dp" />
+
+            <TextView
+                style="@style/TextContent"
+                android:text="@string/my_name"
+                android:textSize="14sp"
+                android:textStyle="bold" />
+        </LinearLayout>
+
+        <!-- Tombol Jadwal -->
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/jadwal_kuliah"
+            style="@style/Widget.MaterialComponents.Button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/jadwal_button"
+            android:textAllCaps="false"
+            android:textColor="@android:color/white"
+            android:backgroundTint="@color/orange_dark" />
+
+    </LinearLayout>
+</ScrollView>

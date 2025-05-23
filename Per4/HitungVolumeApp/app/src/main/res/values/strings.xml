@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">per2</string>
+    <string name="panjang">Panjang</string>
+    <string name="lebar">Lebar</string>
+    <string name="tinggi">Tinggi</string>
+    <string name="hitung">Hitung</string>
+    <string name="hasil">Hasil</string>
+    <string name="hitung_volume_tabung">Hitung Volume Tabung</string>
+    <string name="hitung_volume_kerucut">Hitung Volume Kerucut</string>
+    <string name="hitung_volume_bola">Hitung Volume Bola</string>
+    <string name="hitung_volume_kubus">Hitung Volume Kubus</string>
+</resources>
