@@ -1,0 +1,169 @@
+{
+  "result": [
+    {
+      "no": "1",
+      "name": "Omen",
+      "release_date": "2020-04-07",
+      "role": "Controller",
+      "abilities": "Paranoia & Shrouded Step",
+      "signature":"Dark Cover",
+      "country": "None",
+      "poster": "https://liquipedia.net/commons/images/thumb/5/5c/Omen_Artwork.png/900px-Omen_Artwork.png",
+      "ultimate": "From the Shadows"
+    },
+    {
+      "no": "2",
+      "name": "Jett",
+      "release_date": "2020-04-07",
+      "role": "Duelist",
+      "abilities": "Cloudburst & Updraft",
+      "signature":"Tailwind",
+      "country": "South Korea",
+      "poster": "https://liquipedia.net/commons/images/thumb/2/2c/Jett_Artwork.png/900px-Jett_Artwork.png",
+      "ultimate": "Blade Storm"
+    },
+    {
+      "no": "3",
+      "name": "Sova",
+      "release_date": "2020-04-07",
+      "role": "Initiator",
+      "abilities": "Shock Bolt & Owl Drone",
+      "signature": "Recon Bolt",
+      "country": "Russia",
+      "poster": "https://liquipedia.net/commons/images/thumb/e/ec/Sova_Artwork.png/900px-Sova_Artwork.png",
+      "ultimate": "Hunter’s Fury"
+    },
+    {
+      "no": "4",
+      "name": "Sage",
+      "release_date": "2020-04-07",
+      "role": "Sentinel",
+      "abilities": "Slow Orb & Barrier Orb",
+      "signature":"Healing Orb",
+      "country": "China",
+      "poster": "https://liquipedia.net/commons/images/thumb/a/a4/Sage_Artwork.png/900px-Sage_Artwork.png",
+      "ultimate": "Resurrection"
+    },
+    {
+      "no": "5",
+      "name": "Phoenix",
+      "release_date": "2020-04-07",
+      "role": "Duelist",
+      "abilities": "Blaze & Hot Hands",
+      "signature":"Curveball",
+      "country": "United Kingdom",
+      "poster": "https://liquipedia.net/commons/images/thumb/f/f8/Phoenix_Artwork.png/900px-Phoenix_Artwork.png",
+      "ultimate": "Run It Back"
+    },
+    {
+      "no": "6",
+      "name": "Astra",
+      "release_date": "2021-03-02",
+      "role": "Controller",
+      "abilities": "Gravity Well & Nova Pulse",
+      "signature":"Nebula",
+      "country": "Ghana",
+      "poster": "https://liquipedia.net/commons/images/thumb/1/13/Astra_Artwork.png/900px-Astra_Artwork.png",
+      "ultimate": "Cosmic Divide"   
+    },
+    {
+      "no": "7",
+      "name": "Iso",
+      "release_date": "2023-10-31",
+      "role": "Duelist",
+      "abilities": "Contingency & Undercut",
+      "signature":"Double Tap",
+      "country": "China",
+      "poster": "https://liquipedia.net/commons/images/thumb/5/50/Iso_Artwork.png/900px-Iso_Artwork.png",
+      "ultimate": "Kill Contract"
+    },
+    {
+      "no": "8",
+      "name": "Breach",
+      "release_date": "2020-04-07",
+      "role": "Initiator",
+      "abilities": "Flashpoint & Aftershock",
+      "signature":"Fault Line",
+      "country": "Sweden",
+      "poster": "https://liquipedia.net/commons/images/4/4e/Breach_Artwork.png",
+      "ultimate": "Rolling Thunder"
+    },
+    {
+      "no": "9",
+      "name": "Chamber",
+      "release_date": "2021-11-16",
+      "role": "Sentinel",
+      "abilities": "Trademark & Headhunter",
+      "signature":"Rendezvous",
+      "country": "France",
+      "poster": "https://liquipedia.net/commons/images/thumb/3/39/Chamber_Artwork.png/900px-Chamber_Artwork.png",
+      "ultimate": "Tour De Force"
+    },
+    {
+      "no": "10",
+      "name": "Brimstone",
+      "release_date": "2020-04-07",
+      "role": "Controller",
+      "abilities": "Incendiary & Stim Beacon",
+      "signature":"Sky Smoke",
+      "country": "United States",
+      "poster": "https://liquipedia.net/commons/images/thumb/d/d9/Brimstone_Artwork.png/900px-Brimstone_Artwork.png",
+      "ultimate": "Orbital Strike"
+    },
+    {
+      "no": "11",
+      "name": "Neon",
+      "release_date": "2022-01-12",
+      "role": "Duelist",
+      "abilities": "Fast Lane& Relay Bolt",
+      "signature":"High Gear",
+      "country": "Philippines",
+      "poster": "https://liquipedia.net/commons/images/thumb/7/7a/Neon_Artwork.png/900px-Neon_Artwork.png",
+      "ultimate": "Overdrive"
+    },
+    {
+      "no": "12",
+      "name": "Fade",
+      "release_date": "2022-04-27",
+      "role": "Initiator",
+      "abilities": "Prowler & Seize",
+      "signature":"Haunt",
+      "country": "Turkey",
+      "poster": "https://liquipedia.net/commons/images/e/e5/Fade_Artwork.png",
+      "ultimate": "Nightfall"
+    },
+    {
+      "no": "13",
+      "name": "Cypher",
+      "release_date": "2020-04-07",
+      "role": "Sentinel",
+      "abilities": "Trapwire & Cyber Cage",
+      "signature":"Spycam",
+      "country": "Marocco",
+      "poster": "https://liquipedia.net/commons/images/thumb/b/b1/Cypher_Artwork.png/900px-Cypher_Artwork.png",
+      "ultimate": "Neural Theft"
+    },
+    {
+      "no": "14",
+      "name": "Clove",
+      "release_date": "2024-03-26",
+      "role": "Controller",
+      "abilities": "Pick Me Up & Meddle",
+      "signature":"Ruse",
+      "country": "Scotland",
+      "poster": "https://liquipedia.net/commons/images/thumb/9/9d/Clove_Artwork.png/900px-Clove_Artwork.png",
+      "ultimate": "Not Dead Yet"
+    },
+    {
+      "no": "15",
+      "name": "KAY/O",
+      "release_date": "2021-06-22",
+      "role": "Initiator",
+      "abilities": "FRAG/ment & FLASH/drive",
+      "signature":"ZERO/point",
+      "country": "None",
+      "poster": "https://liquipedia.net/commons/images/thumb/5/55/KAYO_Artwork.png/900px-KAYO_Artwork.png",
+      "ultimate": "NULL/cmd"
+    }
+  ]
+}
